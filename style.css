@@ -1,0 +1,12 @@
+body {
+  background-color: #150d21;
+  display: flex;
+  justify-content: center;
+  margin-top: 20;
+}
+
+.div-norm {
+  border: 2px solid #3e2761;
+  color: #2d1c47;
+  border-radius: 10px;
+}
